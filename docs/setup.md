@@ -11,7 +11,7 @@ A self-hosted instance is the full Kortix platform on a server you control: one 
 - **A Linux server with a public IP.** The setup installs Docker Engine and the Compose plugin when they are missing. If the server already has them, you only need the Kortix CLI, which runs on Linux and macOS, on x86_64 and arm64.
 - **DNS records.** An A or AAAA record for your instance domain and one for its `api.` subdomain, both pointed at the server before the first start, plus a wildcard record such as `*.p.your-domain` for sandbox browser previews.
 - **Ports 80 and 443 open inbound,** so the instance can terminate TLS with a certificate.
-- **A sandbox provider key.** Kortix self-host starts with Daytona, and also supports Platinum and E2B. Without a provider key, sessions do not start.
+- **A sandbox provider key.** Kortix self-host starts with Platinum, and keeps Daytona as a legacy fallback. Without a provider key, sessions do not start.
 - **A model provider key.** Self-hosted Kortix ships no managed models; you add a model key in the app after the first sign-in.
 
 ## The path from a bare server to a running instance
