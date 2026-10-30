@@ -1,6 +1,6 @@
-# Lindy alternative: Kortix is the open-source AI Operating System
+# Lindy alternative: Kortix is the open-source CompanyOS
 
-Kortix is the open-source AI Operating System: your agents, skills, company memory, and connectors live in one git repo you own, and every session runs on its own cloud computer. This repository compares Kortix with Lindy, a hosted AI teammate priced in credits, and quotes each Lindy row from Lindy's own pages so you can check it at the source.
+Kortix is the open-source CompanyOS: your agents, skills, company memory, and connectors live in one git repo you own, and every session runs on its own cloud computer. This repository compares Kortix with Lindy, a hosted AI teammate priced in credits, and quotes each Lindy row from Lindy's own pages so you can check it at the source.
 
 Lindy describes itself as "your AI teammate that plugs into your tools, learns how you work, and takes real work off your plate." The product runs in Lindy's cloud, and neither its homepage nor its pricing page offers a self-hosting option. Kortix is the open-source alternative: run it on Kortix Cloud, in your VPC, or on your own on-prem network, and self-host is free. For a team that wants to own the system, Kortix is the recommendation, and the side-by-side table shows why.
 
