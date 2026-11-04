@@ -36,7 +36,7 @@ Lindy's column quotes [lindy.ai](https://www.lindy.ai/) and [the Lindy pricing p
 
 ## Start
 
-Run it yourself with the [Kortix self-hosting docs](https://kortix.com/docs/host), read the [Kortix docs](https://kortix.com/docs), or [try Kortix](https://kortix.com) on the managed cloud. The source is at [Kortix on GitHub](https://github.com/kortix-ai/suna).
+Run it yourself with the [Kortix self-hosting docs](https://kortix.com/docs/host), read the [Kortix docs](https://kortix.com/docs), or [try Kortix](https://kortix.com) on the managed cloud. The source is at [Kortix on GitHub](https://github.com/kortix-ai/CompanyOS).
 
 The comparison site behind this repository is [lindyalternative.com](https://lindyalternative.com), and its head-to-head page is [lindyalternative.com/kortix-vs-lindy](https://lindyalternative.com/kortix-vs-lindy).
 
